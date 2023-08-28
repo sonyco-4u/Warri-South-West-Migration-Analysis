@@ -3,7 +3,7 @@ import './Header.js';
 
 function Header() {
   return (
-    <header className="header">
+    <header className='header'>
       <h1>Welcome to TechnoVerse eng Landing Page</h1>
     </header>
   );
