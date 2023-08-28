@@ -10,7 +10,7 @@ function Features() {
         <li>Contact</li>
         <li>About Us</li>
       </ul>
-      <img src='services.jpg' class='img-advt'></img>
+      <img src='services.jpg' height="300" width="300" class='img-advt'></img>
     </section>
   );
 }
