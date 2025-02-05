@@ -15,7 +15,7 @@ This a phd academic project for analysis on Migration flow analysis data
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 
-## Dashboard
+## Visualization
 
 ![Screenshot (495)](https://github.com/sonyco-4u/Warri-South-West-Migration-Analysis/blob/main/Ugborodo%20LANDUSE%202022.jpg)
 
