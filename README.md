@@ -17,7 +17,7 @@ This a phd academic project for analysis on Migration flow analysis data
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/sonyco-4u/Warri-South-West-Migration-Analysis/blob/main/Ugborodo%20LANDUSE%202022.jpg)
 
 ## Project Insight
 - The rate of migration flow.
